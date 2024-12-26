@@ -9,3 +9,5 @@ L
 contracts/job-scheduler.clar,3/d/3d48c5528e2866a3d105c1676a6ee0f86de8a741
 R
 "contracts/quantum-marketplace.clar,a/b/ab5994c04eed7955263de977ae447cc82787ca11
+R
+"tests/hardware-integration.test.ts,9/2/9225a9051b4c5da9b84a5c7d277b9c7f012acb0b
