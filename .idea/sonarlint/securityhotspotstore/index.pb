@@ -11,3 +11,7 @@ R
 "contracts/quantum-marketplace.clar,a/b/ab5994c04eed7955263de977ae447cc82787ca11
 R
 "tests/hardware-integration.test.ts,9/2/9225a9051b4c5da9b84a5c7d277b9c7f012acb0b
+K
+tests/job-scheduler.test.ts,b/6/b6fe04a816bdf162dafaf0fa1081d9c39dbcf2a3
+Q
+!tests/quantum-marketplace.test.ts,5/9/59c5ec1ddc5ff5ee63e0173fd899fa8363ff9982
