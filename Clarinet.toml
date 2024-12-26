@@ -10,6 +10,11 @@ path = 'contracts/hardware-integration.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.job-scheduler]
+path = 'contracts/job-scheduler.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-time-token]
 path = 'contracts/quantum-time-token.clar'
 clarity_version = 2
